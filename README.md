@@ -83,8 +83,6 @@ This project is licensed under the **Business Source License 1.1 (BUSL-1.1)**.
 
 - You are free to view, use, and contribute to the code for **non-commercial** purposes.  
 - Commercial use, resale, or redistribution is **not permitted** without explicit permission.  
-- This allows NeVortex to remain collaborative and open during its early research phase,  
-  while preserving the option to transition into a commercial product in the future.
 
 The full license text is available in the `LICENSE` file.
 
