@@ -1,5 +1,6 @@
 # NeVortex
 **An Open Intelligence R&amp;D Engineering Lab**
+<br>
 **Early-stage research initiative on Edge-Based Neural Systems and Decentralized Cognitive Infrastructure**  
 
 ---
