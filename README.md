@@ -2,6 +2,12 @@
 **An Open Intelligence R&amp;D Engineering Lab**
 <br>
 **Early-stage research initiative on Edge-Based Neural Systems and Decentralized Cognitive Infrastructure**  
+<br>
+The technical implementation is currently in development and will be made public as foundational components are **completed and validated.**
+
+For now, this repo exists to anchor our mission, structure collaboration, and **document progress** as it happens.
+
+> You are early. And that’s intentional.
 
 ---
 
