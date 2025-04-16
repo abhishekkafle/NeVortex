@@ -99,7 +99,7 @@ The full license text is available in the `LICENSE` file.
 For inquiries or collaboration:  
 **Email**: contact@aykay.dev  
 **Website**: [https://nevortex.com](https://nevortex.com)  
-**LinkedIn**: [Abhishek Kafle](https://www.linkedin.com/in/abhishekkafle)
+**LinkedIn**: [NeVortex](https://www.linkedin.com/company/nevortex)
 
 ---
 
